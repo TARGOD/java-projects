@@ -3,7 +3,7 @@ package sgpa_and_cgpa;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class calculation {
+public class cgpasgpacalculation {
 
 	public static void main(String[] args) {
 		Scanner scanner=new Scanner(System.in);
